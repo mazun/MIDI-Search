@@ -12,6 +12,6 @@ Search_file should contains phrase you want to search.Midisearch check if file1 
 
 [Example]
 
-$ ./midisearch 3.MIDI 2.MIDI
+$ ./midisearch 3.MID 2.MID
 
 2.MID is matched! (at Channel 0)
