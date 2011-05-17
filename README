@@ -14,4 +14,4 @@ Search_file should contains the phrase you want to search. Midisearch check if f
 
 $ ./midisearch 3.MID 2.MID
 
-2.MID is matched! (at Channel 0)
+2.MID contains the phrase! (at Channel 0)

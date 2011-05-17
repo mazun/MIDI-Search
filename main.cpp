@@ -119,7 +119,7 @@ int main(int argc, char *argv[]){
       MidiSummary searched(midiSummary(sMidi, *it));
       
       if(includes(search, searched)){
-	cout << argv[i] << " is matched! (at Channel " << *it << ")" <<  endl;
+	cout << argv[i] << " contains the phrase! (at Channel " << *it << ")" <<  endl;
 	break;
       }
     }
