@@ -8,7 +8,7 @@ $ make
 
 $ ./midisearch search_file file1 [file2 ...]
 
-Search_file should contains phrase you want to search.Midisearch check if file1 ... contain this phrase.
+Search_file should contains the phrase you want to search. Midisearch check if file1 ... contain this phrase.
 
 [Example]
 
