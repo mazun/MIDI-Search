@@ -1,0 +1,17 @@
+This tool can search MIDI file containing certain phrase.
+
+[Build]
+
+$ make
+
+[Usage]
+
+$ ./midisearch search_file file1 [file2 ...]
+
+Search_file should contains phrase you want to search.Midisearch check if file1 ... contain this phrase.
+
+[Example]
+
+$ ./midisearch 3.MIDI 2.MIDI
+
+2.MID is matched! (at Channel 0)
